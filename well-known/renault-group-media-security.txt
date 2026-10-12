@@ -1,0 +1,3 @@
+Contact: mailto:vulns@epresspack.com
+Expires: 2029-12-31T23:00:00.000Z
+Policy: https://www.epresspack.com/vulns-reporting-policy.txt
