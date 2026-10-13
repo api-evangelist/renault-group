@@ -89,11 +89,6 @@ apis:
   - type: Sandbox
     url: https://developer.renaultgroup.com/en/develop/rg-emulators
 
-x-enrichment:
-  status: enriched
-  pass: local-v5
-  date: '2026-10-13'
-
 x-coverage:
   state: none
   reason: no-developer-program
@@ -107,3 +102,7 @@ x-coverage:
     status: 403
   - url: https://www.renaultgroup.com/
     status: 200
+x-enrichment:
+  status: enriched
+  pass: local-v5
+  date: '2026-10-13'
